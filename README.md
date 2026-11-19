@@ -1,5 +1,9 @@
 # Dicteer
 
+> **Alleen voor Mac.** Je hebt een Mac met Apple-chip nodig (M1, M2, M3, M4 of
+> nieuwer) en macOS 14.4 of nieuwer. Er is geen versie voor Windows, iPhone of
+> Android, en ook niet voor oudere Macs met een Intel-chip.
+
 Lokale dictatie voor macOS. Tik twee keer op de rechter ⌘, praat, tik nog een
 keer: de tekst verschijnt in de app waar je werkt. Het spraakmodel draait op je
 eigen Mac. Er gaat geen audio naar internet.
@@ -7,8 +11,6 @@ eigen Mac. Er gaat geen audio naar internet.
 Deze repo bevat alleen de kant-en-klare app (zie **Releases**), geen broncode.
 
 ## Installeren
-
-Nodig: een Mac met Apple-chip (M1 of nieuwer) en macOS 14.4 of nieuwer.
 
 1. **Download** `Dicteer-lokaal.zip` bij de [nieuwste release](https://github.com/christian2001za/dicteer-releases/releases/latest).
 2. **Dubbelklik** op de zip. Sleep `Dicteer.app` naar **Programma's**.
