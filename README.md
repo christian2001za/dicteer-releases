@@ -8,11 +8,16 @@ Lokale dictatie voor macOS. Tik twee keer op de rechter ⌘, praat, tik nog een
 keer: de tekst verschijnt in de app waar je werkt. Het spraakmodel draait op je
 eigen Mac. Er gaat geen audio naar internet.
 
-Deze repo bevat alleen de kant-en-klare app (zie **Releases**), geen broncode.
+## ⬇️ [Download Dicteer voor Mac](https://github.com/christian2001za/dicteer-releases/releases/latest/download/Dicteer-lokaal.zip)
+
+Klik op de link hierboven: de nieuwste versie downloadt meteen
+(`Dicteer-lokaal.zip`, ongeveer 50 MB). Volg daarna de stappen hieronder.
+
+Deze repo bevat alleen de kant-en-klare app, geen broncode.
 
 ## Installeren
 
-1. **Download** `Dicteer-lokaal.zip` bij de [nieuwste release](https://github.com/christian2001za/dicteer-releases/releases/latest).
+1. **Download** [Dicteer-lokaal.zip](https://github.com/christian2001za/dicteer-releases/releases/latest/download/Dicteer-lokaal.zip).
 2. **Dubbelklik** op de zip. Sleep `Dicteer.app` naar **Programma's**.
 3. **Open Dicteer** vanuit Programma's. macOS meldt dat het de app niet kan
    controleren. Klik op **Gereed**.
