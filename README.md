@@ -10,11 +10,37 @@ Deze repo bevat alleen de kant-en-klare app (zie **Releases**), geen broncode.
 
 Nodig: een Mac met Apple-chip (M1 of nieuwer) en macOS 14.4 of nieuwer.
 
-1. Download `Dicteer-lokaal.zip` bij de nieuwste release en pak hem uit.
-2. Volg de stappen in `Installeren.txt` in de zip.
+1. **Download** `Dicteer-lokaal.zip` bij de [nieuwste release](https://github.com/christian2001za/dicteer-releases/releases/latest).
+2. **Dubbelklik** op de zip. Sleep `Dicteer.app` naar **Programma's**.
+3. **Open Dicteer** vanuit Programma's. macOS meldt dat het de app niet kan
+   controleren. Klik op **Gereed**.
+4. Ga naar **Systeeminstellingen › Privacy en beveiliging**. Scrol helemaal naar
+   beneden en klik op **Open toch**. Vul je wachtwoord in.
+5. Dicteer probeert nu te openen. Klik in de melding weer op **Open toch**.
+6. **Microfoon:** klik op **Sta toe**.
+7. **Toegankelijkheid:** vraagt de app hierom, zet Dicteer dan aan.
+8. **Invoerbewaking:** ga naar **Systeeminstellingen › Privacy en beveiliging ›
+   Invoerbewaking**. Klik op **+** en kies **Dicteer** uit Programma's. Klik op
+   **Stop en open opnieuw** als dat gevraagd wordt.
+9. **Wacht een paar minuten.** De app downloadt één keer het spraakmodel
+   (ongeveer 720 MB). Daarna hoor je een geluid.
 
-De app is niet via Apple genotariseerd. Bij de eerste keer openen moet je hem
-daarom één keer toestaan: Systeeminstellingen › Privacy en beveiliging › Open toch.
+Klaar. Tik twee keer op de **rechter ⌘**, praat, en tik één keer om te stoppen.
+
+Stap 3 tot en met 5 zijn nodig omdat de app niet via Apple is genotariseerd. Je
+doet ze maar één keer.
+
+## Gebruiken
+
+| Sneltoets | Wat |
+|---|---|
+| rechter ⌘ ⌘ | dicteren starten; één tik stopt |
+| rechter ⌘ ⌘ tijdens het praten | stoppen, plakken én Enter (versturen) |
+| Esc | dictatie weggooien |
+| rechter ⌘ ⌘ ⌘ | geschiedenis openen |
+| ⌥⌘V | laatste dictaat opnieuw plakken |
+
+Alle sneltoetsen zijn in te stellen in de app: Instellingen › Sneltoetsen.
 
 ## Updates
 
